@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/MAGNAfntv.png?raw=true",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
