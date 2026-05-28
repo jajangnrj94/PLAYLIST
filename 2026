@@ -12,18 +12,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RTVfntv.png?raw=true",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/RCTI.svg/1280px-RCTI.svg.png",RCTI
-https://rcti-linier.rctiplus.id/hdntl=exp=1780020048~acl=%2F*~data=hdntl~hmac=ca8e7fddcc87219a9395054c9393c303b9a726c0302187686d8c0a0a1473c1e9/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/RCTI.svg/1280px-RCTI.svg.png",RCTI
-https://rcti-linier.rctiplus.id/hdntl=exp=1780020048~acl=%2F*~data=hdntl~hmac=ca8e7fddcc87219a9395054c9393c303b9a726c0302187686d8c0a0a1473c1e9/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/5/58/20230801015834%21TVRI_Sport_2017.png",TVRI Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
