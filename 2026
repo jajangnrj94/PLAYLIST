@@ -24,12 +24,18 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png",TransTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TRANSTVfntv.png?raw=true",TransTV (BACKUP)
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 group-title="LOKAL" tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png",Trans7
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TRANS7fntv.png?raw=true",Trans7(BACKUP)
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Rodja_TV.png/500px-Rodja_TV.png",RodjaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
@@ -42,9 +48,5 @@ https://op-group1-swiftservehd-1.dens.tv/h/h70/wedotv_movie.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_GarudaTV_Merah_Putih_Silver_Merah.svg/960px-Logo_GarudaTV_Merah_Putih_Silver_Merah.svg.png",GARUDAtv
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/50/RCTI.svg/1280px-RCTI.svg.png",RCTI
-https://rcti-linier.rctiplus.id/hdntl=exp=1780020048~acl=%2F*~data=hdntl~hmac=ca8e7fddcc87219a9395054c9393c303b9a726c0302187686d8c0a0a1473c1e9/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
